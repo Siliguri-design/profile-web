@@ -7,7 +7,7 @@
 </p>
 <br>
 <div align="center">
-<a href='anjan-profile.vercel.app' target="_blank"><img alt='✨️🧑‍💻Aɳʝαɳ ʂҽɾ✨️🧑‍💻' src='https://img.shields.io/badge/✨️Anjan dhar✨️_-10000000?style=for-the-badge&logo= ✨️🧑‍💻Aɳʝαɳ ԃԋαɾ✨️🧑‍💻&logoColor=white&labelColor=darkred&color=darkblue'/></a>
+<a href='https://anjan-profile.vercel.app/' target="_blank"><img alt='✨️🧑‍💻Aɳʝαɳ ʂҽɾ✨️🧑‍💻' src='https://img.shields.io/badge/✨️Anjan dhar✨️_-10000000?style=for-the-badge&logo= ✨️🧑‍💻Aɳʝαɳ ԃԋαɾ✨️🧑‍💻&logoColor=white&labelColor=darkred&color=darkblue'/></a>
 
 <br>
 
